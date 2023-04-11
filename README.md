@@ -6,9 +6,13 @@ Create onboarding PR. Then modify the onboarding branch.
   - Fall back to git for modified/conflicted calculation
   - Invalidate cache when checking isOnboarded()
   - Invalidate Extract Cache
-  - New PR body which reflect the changes to config done in onboarding brancj
+  - New PR body which reflect the changes to config done in onboarding branch
   
 ## Observations:
+  - Fall back to git for modified/conflicted calculation ✅
+  - Use cache when checking isOnboarded() ✅
+  - Invalidate Extract Cache ✅
+  - New PR body which reflect the changes to config done in onboarding branch ✅
 
 ## Relevant logs:
 
