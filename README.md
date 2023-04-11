@@ -25,7 +25,7 @@ DEBUG: Onboarding cache is valid. Repo is not onboarded (repository=RahulGautamS
 DEBUG: Repo is not onboarded (repository=RahulGautamSingh-testing/onboarding-3)
 ...
 DEBUG: Onboarding PR already exists (repository=RahulGautamSingh-testing/onboarding-3)
-DEBUG: Onboarding branch modified. Removing outdated extract cache for branch=main (repository=RahulGautamSingh-testing/onboarding-3)
+DEBUG: Onboarding branch modified. Removing outdated extract cache for branch=main (repository=RahulGautamSingh-testing/onboa..)
 DEBUG: isBranchConflicted(main, renovate/configure) (repository=RahulGautamSingh-testing/onboarding-3)
 DEBUG: branch.isConflicted(): using git to calculate (repository=RahulGautamSingh-testing/onboarding-3)
 ... cloning & finding conflicted status ...
